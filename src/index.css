@@ -1,0 +1,86 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+SC:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Sansation:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Winky+Sans:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+ 
+
+.bg-color{
+  background-color: #161617;
+}
+.bg-color2{
+  background-color: rgb(50 149 201);
+}
+/* .bg-color2 p{
+  color:rgb(50 149 201); ;
+} */
+
+.bg-color3{
+  
+  background-color: rgb(80 190 61);
+}
+
+ .bg-color4{
+  background-color: #f26d5f;
+ }
+
+ .bg-color5{
+  color: #6f352f;
+ }
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg-color7{
+  background-color: rgb(30 41 59);
+}
+
+ .bg-line{
+  line-height: 1.8;
+ }
+.bg-font{
+   font-family: "Poppins", sans-serif;
+  font-style: normal;
+}
+.bg-font2{
+    font-family: "Public Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* body{
+  background-color: #d9d6cc;
+} */
+.bg-h{
+color: #a8a8a9;
+}
+
+nav ul a li{
+
+  color: black;
+}
+.bg-color6{
+  background-color: #e9f9ff;
+}
+p,span{
+
+ text-align: center;
+ line-height: 1.9;
+}
+nav ul a li:hover{
+  color: rgb(14 165 233);
+}
+.bg-height{
+  line-height: 1.2;
+}
+.bg-hero{
+background-image: url(assets/home.png);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+}
