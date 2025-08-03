@@ -8,7 +8,7 @@ const Projects = () => {
     
     return (
 
-        <div className=" flex items-center mt-96 md:mt-20 flex-col min-h-screen relative px-2" id='project'   
+        <div className=" flex items-center mt-96 md:mt-20 flex-col  w-full min-h-screen relative px-2" id='project'   
           >
   <h1 className="text-3xl sm:text-3xl font-bold underline underline-offset-8 text-white mb-12">
         <span className="text-yellow-500">&lt;/</span>Projects<span className="text-yellow-500">&gt;</span>

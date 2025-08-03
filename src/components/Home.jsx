@@ -5,7 +5,7 @@ import dev from "../assets/dev.svg";
 
 const Home = () => {
   return (
-    <div className="flex flex-col-reverse lg:flex-row items-center justify-centermt px-6 lg:px-20 py-10 gap-10 min-h-screen bg-black" id="home">
+    <div className="flex flex-col-reverse lg:flex-row items-center w-full justify-centermt px-6 lg:px-20 py-10 gap-10 min-h-screen bg-black" id="home">
       
       {/* Left Section */}
       <div className="text-center lg:text-left w-full lg:w-1/2" >

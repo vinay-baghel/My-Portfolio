@@ -9,6 +9,10 @@
 @tailwind utilities;
  
 
+body , html {
+  overflow-x: hidden;
+}
+
 .bg-color{
   background-color: #161617;
 }
@@ -78,9 +82,4 @@ nav ul a li:hover{
 .bg-height{
   line-height: 1.2;
 }
-.bg-hero{
-background-image: url(assets/home.png);
-background-position: center;
-background-size: cover;
-background-repeat: no-repeat;
-}
+

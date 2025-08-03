@@ -5,7 +5,7 @@ const Education = () => {
   return (
     <div className='w-full bg-black flex flex-col md:flex-row justify-center items-start gap-4 p-4 min-h-screen relative'>
 
-      {/* MCA Container with Logo */}
+     
       <div className="flex flex-col items-center w-full md:w-96 mt-10" 
         data-aos="fade-right"
           data-aos-offset="150"
