@@ -16,7 +16,7 @@ const Education = () => {
           <p className="text-sm mb-1">MITS College, Gwalior</p>
           <p className="text-sm mb-2">Aug 2025 – Present</p>
           <p className=" text-sm text-justify ">
-            I am currently pursuing my Master's degree (MCA) at MITS College, Gwalior, affiliated with Jiwaji University. My focus is on strengthening my skills in software development, web technologies, and computer science fundamentals. I am actively learning technologies like MERN stack, API integration. This journey is helping me grow professionally and technically.
+            I am currently pursuing my Master's degree (MCA) at MITS College, Gwalior, affiliated with RGPV. My focus is on strengthening my skills in software development, web technologies, and computer science fundamentals. I am actively learning technologies like MERN stack, API integration. This journey is helping me grow professionally and technically.
           </p>
         </div>
     
